@@ -1,9 +1,4 @@
-正在准备完整的 scratch-digit-nn.sb3 项目文件并上传到仓库。
+DELETED
 
-说明：
-- 该文件将替换先前的占位文件 scratch-digit-nn.sb3。
-- 完整的 .sb3 会包含：14×14 输入格、隐藏层 32、输出 10 的 Scratch-only 神经网络实现；Sprites: Cell / Controller / Neuron / Drawer / UI 按钮；所有列表和变量预建；按钮与使用说明写入项目舞台。
-
-如果你更愿意通过聊天获取 Base64 文本并在本地解码，请现在回复 "base64"。否则我将继续把二进制 .sb3 直接提交到仓库并在完成后告诉你下载链接。
-
-（正在生成中 — 请稍候几秒钟）
+This file was removed and replaced by a pure-Python implementation per user request.
+See digit_nn.py and README.md in this repository for the new implementation.
